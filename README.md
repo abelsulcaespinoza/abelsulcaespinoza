@@ -5,11 +5,7 @@
 <a href="https://www.facebook.com/abelsulcaespinoza" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ## Skills
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,visualstudio,powershell,git" />
-  </a>
-</p>
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
@@ -23,10 +19,5 @@
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,notion,ableton,stackoverflow" />
   </a>
 </p>
