@@ -8,12 +8,12 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 <p>
