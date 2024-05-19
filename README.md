@@ -2,8 +2,8 @@
 
 ## Sobre mí
 
-- Estudiante de Computación e Informática
-- Programa Oracle ONE con Alura (Front-End)
+- Estudiante de Computación e Informática en Cibertec
+- Estudiante en el Programa Oracle ONE con Alura (Front-End)
 
   ### Redes Sociales
 
